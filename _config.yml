@@ -1,0 +1,45 @@
+# site settings
+title: Blackstone
+subtitle: Security Group
+email: contact@blackstonesecuritygroup.co.uk
+description: Independent, Indifferent, Indomitable.
+url: https://blackstonesecuritygroup.co.uk # the base hostname & protocol for your site
+author: Blackstone Security Group
+footer: ARMA 3 Milsim
+street_address: (street_address)
+city: (city)
+state: (state)
+zip_code:
+country:
+logo-image: ./assets/images/icons/icon.png
+#phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+sass:
+  style: compressed
