@@ -29,8 +29,8 @@ show_tile: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="careers.html" class="image">
-			<img src="https://cdn.discordapp.com/attachments/650862830278672447/721409152601292950/fleet-carrier-square-2.png" alt="" data-position="center center" />
+		<a href="" class="image">
+			<img src="/assets/images/002.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -44,8 +44,8 @@ show_tile: false
 		</div>
 	</section>
 	<section>
-		<a href="mining.html" class="image">
-			<img src="https://cdn.discordapp.com/attachments/650862830278672447/677889675808997406/mining.png" alt="" data-position="top center" />
+		<a href="" class="image">
+			<img src="/assets/images/2.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -59,8 +59,8 @@ show_tile: false
 		</div>
 	</section>
 	<section>
-		<a href="security.html" class="image">
-			<img src="https://cdn.discordapp.com/attachments/650862830278672447/721411777107329034/anaconda-square-1.png" alt="" data-position="25% 25%" />
+		<a href="" class="image">
+			<img src="/assets/images/20.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -72,8 +72,8 @@ show_tile: false
 		</div>
 	</section>
 	<section>
-		<a href="exploration.html" class="image">
-			<img src="https://cdn.discordapp.com/attachments/650862830278672447/721437323589582898/exploration-square-1.png" alt="" data-position="25% 25%" />
+		<a href="" class="image">
+			<img src="/assets/images/34.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -87,8 +87,8 @@ show_tile: false
 		</div>
 	</section>
 	<section>
-		<a href="anti-xenos.html" class="image">
-			<img src="https://cdn.discordapp.com/attachments/650862830278672447/721442765526925332/ax-square-1.png" alt="" data-position="25% 25%" />
+		<a href="" class="image">
+			<img src="/assets/images/41.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

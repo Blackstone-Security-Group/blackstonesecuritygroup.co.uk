@@ -25,7 +25,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="" class="image">
-			<img src="/assets/images/icons/icon-3-with-text.png" alt="" data-position="center center" />
+			<img src="/assets/images/banner.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -46,7 +46,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="/assets/images/55.png" alt="" data-position="top center" />
+			<img src="/assets/images/17.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +71,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="" class="image">
-			<img src="/assets/images/36.png" alt="" data-position="center center" />
+			<img src="/assets/images/20240813203753_1.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -91,7 +91,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="/assets/images/20.png" alt="" data-position="top center" />
+			<img src="/assets/images/3.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
