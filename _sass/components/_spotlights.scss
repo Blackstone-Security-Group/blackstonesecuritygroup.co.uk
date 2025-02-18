@@ -25,11 +25,14 @@
 				display: block;
 				position: relative;
 				width: 30%;
+				//style="width: 600px; height: 600px; object-fit: cover;"
 
 				img {
 					border-radius: 0;
 					display: block;
 					width: 100%;
+					object-fit: cover;
+					aspect-ratio: 1 / 1;
 				}
 
 				&:before {
