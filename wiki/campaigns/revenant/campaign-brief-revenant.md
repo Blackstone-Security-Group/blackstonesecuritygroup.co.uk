@@ -36,6 +36,7 @@ Expected Outcome: Severely disrupt network logistics and identify deeper connect
 - Conduct **precision demolition** of stockpiles with minimal collateral damage.
 - Plant **false evidence** to misdirect investigations towards rival groups.
 - Intercept and sabotage arms convoys before they reach key warlords and militias.
+
 **Expected Outcome: Immediate reduction in available arms stock for local insurgencies.**
 
 ### 3. OPERATION IRON GATE (Strengthening Border Security & Patrols)
@@ -44,6 +45,7 @@ Expected Outcome: Severely disrupt network logistics and identify deeper connect
 - Establish **covert monitoring stations** at high-traffic border points (DRC-CAR, DRC-Uganda, DRC-Rwanda).
 - Set up **mobile interception teams** to catch high-value shipments in transit.
 - Deploy **drones and reconnaissance assets** to track cross-border smuggling routes.
+
 **Expected Outcome: Disrupt trafficking at key transit points and improve interdiction capabilities.**
 
 ### 4. OPERATION VIPER STRIKE (Targeted Seizures & Security Operations)
@@ -53,6 +55,7 @@ Expected Outcome: Severely disrupt network logistics and identify deeper connect
 - Secure and extract **illicit weapons for forensic tracing**.
 - Expose **links between traffickers and corrupt officials** to sow distrust within networks.
 - Reallocate seized arms to trusted local security forces for controlled use.
+
 **Expected Outcome: Reduce illegal arms in circulation while using seized intelligence for deeper network penetration.**
 
 ### 5. OPERATION BLACK PYTHON (Supporting Local Security Forces & Proxy Engagements)
@@ -62,6 +65,7 @@ Expected Outcome: Severely disrupt network logistics and identify deeper connect
 - Establish **joint task forces** with vetted military and police units.
 - Deploy **advisory teams** to coordinate future anti-trafficking missions.
 - Ensure **on-ground influence** without direct Blackstone attribution.
+
 **Expected Outcome: Empower local forces to maintain momentum after Blackstone’s exit.**
 
 ### 6. OPERATION VEILBREAKER (Final Network Dismantling & Exit Strategy)
@@ -71,6 +75,7 @@ Expected Outcome: Severely disrupt network logistics and identify deeper connect
 - Leak controlled **disinformation** to dismantle any lingering criminal alliances.
 - Create **false narratives** to shift blame onto rival factions, ensuring lasting disruption.
 - Conduct a **phased withdrawal**, leaving no trace of Blackstone’s involvement.
+
 **Expected Outcome: Permanent disruption of illegal arms flow with no attribution to UNREC or Blackstone.**
 
 ## III. OPERATIONAL RISKS & CHALLENGES
