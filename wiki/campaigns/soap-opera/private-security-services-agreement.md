@@ -9,10 +9,10 @@ show_tile: false
 
 This **Private Security Services Agreement** (the “Agreement”) is entered into as of **2025-04-04**, by and between:  
 
-**Redshift Logistics (RLOG), Ltd.**  
+**Redshift Logistics (RLOG)**  
 A corporation duly registered and operating within the Republic of Santa Arcadia, hereinafter referred to as "RLOG", and  
 
-**Blackstone Security Group (BSG), Inc.**  
+**Blackstone Security Group (BSG)**  
 A private military contractor and security solutions provider, hereinafter referred to as "BSG".  
 
 ## 1. PURPOSE  
@@ -73,5 +73,5 @@ By signing below, both parties acknowledge their understanding and acceptance of
 
 **For Redshift Logistics (RLOG):**  
 Edmundo O'Brien  
-Chief Executive Officer 
+Chief Executive Officer  
 2nd April 2025
