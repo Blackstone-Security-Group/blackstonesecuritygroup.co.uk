@@ -26,3 +26,13 @@ Operation Tidal is a covert offensive targeting multiple cartel weapons caches a
 The mission requires precision, speed, and plausible deniability. BSG teams are to locate and neutralize high-value arms stockpiles, gather intel on supply routes, and avoid drawing attention to foreign involvement. Any cartel resistance is to be eliminated with minimal collateral damage, and all captured materials must be documented and quietly passed on to Agency liaison embedded within RLOG’s logistics division.
 
 This operation marks a shift from defensive posturing to targeted disruption—and will test BSG’s ability to strike hard while staying off the radar.
+
+### Outcome
+
+Bailiff operatives escorted RLOG personnel to Santa Arcadia International Airport. During the movement, BSG came under light fire from a passing cartel technical. Local police forces provided support, helping repel the attack. Sporadic gunfire was audible in the distance throughout the operation.
+
+Once the airport was secured, BSG operatives departed in an unmarked van en route to a known cartel drone dead drop. At the site, cartel members were neutralized, a cocaine stash was detonated, and a laptop was recovered. A Bailiff detachment transported the laptop back to the extraction vehicle before advancing into the jungle to regroup. During this movement, one operative triggered a mine.
+
+Bailiff forces prioritized response to the mine strike before continuing toward the cartel weapons cache. While regrouping, the detachment engaged and eliminated a two-man cartel scouting party. After successfully regrouping, the Bailiff squad assaulted and destroyed the Los Zetas arms cache, facing heavy infantry resistance. A Santa Arcadian army gunship provided air support during the squad’s withdrawal to the extraction point.
+
+The mission's primary objective—the destruction of the arms cache—was achieved. However, Los Zetas reportedly possess anecdotal accounts of armed individuals seen emerging from the treeline during the engagement.
