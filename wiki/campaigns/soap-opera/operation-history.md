@@ -36,3 +36,11 @@ Once the airport was secured, BSG operatives departed in an unmarked van en rout
 Bailiff forces prioritized response to the mine strike before continuing toward the cartel weapons cache. While regrouping, the detachment engaged and eliminated a two-man cartel scouting party. After successfully regrouping, the Bailiff squad assaulted and destroyed the Los Zetas arms cache, facing heavy infantry resistance. A Santa Arcadian army gunship provided air support during the squad’s withdrawal to the extraction point.
 
 The mission's primary objective—the destruction of the arms cache—was achieved. However, Los Zetas reportedly possess anecdotal accounts of armed individuals seen emerging from the treeline during the engagement.
+
+## Operation Papercut
+
+### Brief
+
+Following the limited success of Operation Tidal, intelligence recovered from cartel weapons sites has revealed the name **El Carpintero** — a high-ranking Los Zetas enforcer rumored to run forced disappearances and maintain territorial control through brutal coercion. Recent spikes in missing persons reports may be linked to a suspected “chop shop” operation under his command, though the exact location remains unknown.
+
+The objective is to locate and confirm the existence of a suspected cartel-operated chop shop, believed to be run by El Carpintero. Recent spikes in missing persons reports, coupled with intercepted communications, suggest the site may serve both as a torture chamber and a warning to those who resist cartel control. While official documentation classifies the operation as a routine asset inspection and infrastructure check, in reality, this mission is sanctioned by a third party to gather actionable intel on one of Los Zetas’ most feared figures. BSG operators must move with caution through dense jungle terrain, avoiding detection while surveying suspected locations. The goal is to confirm the chop shop’s location, identify patterns of cartel movement, and report findings for future direct action. Engagements are to be avoided unless absolutely necessary—this is a ghost mission. Eyes open, no footprints.
