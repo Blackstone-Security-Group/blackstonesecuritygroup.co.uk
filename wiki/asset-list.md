@@ -7,6 +7,13 @@ author: null
 show_tile: false
 ---
 
+# Vehicles in repair/re-aquisition
+
+| Name of Vehicle | Repair Date |
+| - | - |
+| KA-60 (Armed) | 2025/04/15 |
+| Armored SUV (Unarmed) | 2025/04/15 |
+
 ## Cars
 
 | Names of Vehicles | Amount of Vehicles | Number in repair |
@@ -61,10 +68,3 @@ show_tile: false
 | - | - | - | 
 | A-29 Super Tucano | 2 | 0 |
 | L-39 Albatross | 2 | 0 |
-
-# Vehicles in repair/re-aquisition
-
-| Name of Vehicle | Repair Date |
-| - | - |
-| KA-60 (Armed) | 2025/04/15 |
-| Armored SUV (Unarmed) | 2025/04/15 |
