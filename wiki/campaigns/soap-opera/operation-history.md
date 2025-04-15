@@ -54,3 +54,21 @@ The squad successfully avoided most cartel patrols and breached a heavily guarde
 In addition to the scene, BSG recovered a chilling note — a written message to a family member of a recent victim. The note described in excruciating detail the victim’s fate at El Carpintero's hands, and warned that the recipient was next. The note also mentioned the making of a “human chair” — a grotesque piece of furniture crafted from the remains of the victim, which would be sent to their family.
 
 El Carpintero was apprehended alive, though he sustained multiple shrapnel and bullet wounds during the breach. While attempting to extract him, cartel forces launched a pursuit on both BSG squads. The BSG convoy engaged the pursuers and managed to break contact, retreating back to RLOG HQ without further casualties.
+
+## Operation Cuckoo
+
+### Brief
+
+RLOG suspects that several of its warehouse and office staff have been coerced into working with the Los Zetas cartel. Due to concerns about compromised law enforcement, RLOG has requested a direct intervention by BSG, under the terms of our security contract.
+
+Bailiff squad is tasked with sweeping the RLOG regional office and adjacent warehouse facility. The operation begins with a full data sweep of the office server room—this is the top priority. Once the office is secured, Bailiff is to move on the warehouse and search for evidence of cartel activity, including contraband, documents, or smuggling infrastructure.
+
+This operation is fully sanctioned by RLOG and falls within the scope of our contract. Plausible deniability is not required. Expect hostile resistance if any compromised staff or cartel-affiliated personnel are present on-site.
+
+### Summary
+
+Operation Cuckoo was a limited success. BSG Bailiff squad was tasked with sweeping a suspected compromised RLOG office and adjacent warehouse facility. The team successfully secured the office and copied all data from the server room before moving on to the warehouse, where two pallets of cartel-linked cocaine were found and confiscated. The contraband was handed off to Landlord squad at St. George Airstrip.
+
+As breaching operations began, hostile dock workers armed with MAC-10s engaged Bailiff squad, quickly escalating the situation. Cartel QRF soldiers arrived from the tree line and Lijnhaven district, initiating a heavy firefight. A cartel-operated Huey helicopter with a door gunner began circling the warehouse but was neutralized by the armored SUVs’ mounted miniguns.
+
+During the chaos, a rogue element of the local police arrived and, despite warning shots, engaged Bailiff squad. This unexpected hostility has triggered diplomatic friction—Hedgefund has expressed significant concern about the incident and instructed Bailiff to exfil to international waters via helicopter, where they will lay low aboard an RLOG cargo vessel.
