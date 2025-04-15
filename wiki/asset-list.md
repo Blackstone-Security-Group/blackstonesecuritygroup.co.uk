@@ -11,8 +11,8 @@ show_tile: false
 
 | Name of Vehicle | Repair Date |
 | - | - |
-| KA-60 (Armed) | 2025/04/15 |
-| Armored SUV (Unarmed) | 2025/04/15 |
+| Armored SUV (Armed) | 2025/04/22 |
+| Armored SUV (Armed) | 2025/04/22 |
 
 ## Cars
 
@@ -27,8 +27,8 @@ show_tile: false
 | Toyota Taho | 3 | 0 |
 | SOF Cruisers | 3 | 0 |
 | MRAPs | 5 | 0 |
-| Armored SUV (Unarmed) | 2 | 1 |
-| Armored SUV (Armed) | 2 | 0 |
+| Armored SUV (Unarmed) | 2 | 0 |
+| Armored SUV (Armed) | 2 | 2 |
 
 ## IFVs
 
