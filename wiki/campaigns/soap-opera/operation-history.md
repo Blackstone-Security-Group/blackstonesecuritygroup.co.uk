@@ -9,7 +9,7 @@ show_tile: false
 
 ## Season 1
 
-### Operation Ingress
+### 1. Operation Ingress
 
 #### Brief
 
@@ -19,7 +19,7 @@ BSG personnel have barely set foot on Santa Arcadian soil when they receive thei
 
 Following a firefight with local cartel forces in La Rochelle, Gabriel Moreno was not located at the scene. Intelligence suggests he was captured by Los Zetas and transported to George Town, where he is being held for ransom. Amid an escalating shootout between cartel enforcers and local police in the city center—further complicated by proximity of Russian mob elements and IS-aligned extremists—BSG is reassigned to execute a high-risk extraction. Despite the chaos and heavy resistance, BSG successfully extracts Moreno and returns him safely to RLOG headquarters.
 
-### Operation Tidal
+### 2. Operation Tidal
 
 #### Brief 
 
@@ -39,7 +39,7 @@ Bailiff forces prioritized response to the mine strike before continuing toward 
 
 The mission's primary objective—the destruction of the arms cache—was achieved. However, Los Zetas reportedly possess anecdotal accounts of armed individuals seen emerging from the treeline during the engagement.
 
-### Operation Papercut
+### 3. Operation Papercut
 
 #### Brief
 
@@ -57,7 +57,7 @@ In addition to the scene, BSG recovered a chilling note — a written message to
 
 El Carpintero was apprehended alive, though he sustained multiple shrapnel and bullet wounds during the breach. While attempting to extract him, cartel forces launched a pursuit on both BSG squads. The BSG convoy engaged the pursuers and managed to break contact, retreating back to RLOG HQ without further casualties.
 
-### Operation Cuckoo
+### 4. Operation Cuckoo
 
 #### Brief
 
@@ -74,7 +74,7 @@ As breaching operations began, hostile dock workers armed with MAC-10s engaged B
 
 During the chaos, a rogue element of the local police arrived and, despite warning shots, engaged Bailiff squad. This unexpected hostility has triggered diplomatic friction—Hedgefund has expressed significant concern about the incident and instructed Bailiff to exfil to international waters via helicopter, where they will lay low aboard an RLOG cargo vessel.
 
-### Operation Hardback
+### 5. Operation Hardback
 
 #### Brief
 
