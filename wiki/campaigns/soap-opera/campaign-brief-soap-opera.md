@@ -91,6 +91,14 @@ Santa Arcadia maintains a professional military force focused on national defens
 
 ## The Gray Areas – BSG’s Role in the Conflict
 
+### Callsigns
+
+- Hedgefund (Command)
+- Stop-loss (Helicopter transport)
+- Bailiff (Ground Team Offensive Posture)
+- Landlord (Ground Team Defensive Posture)
+- Tenant (Ground Team Support Posture)
+
 ### BSG’s Mission Objectives
 
 BSG has been hired to protect RLOG, not police the country. However, the blurry lines between corporate security, cartel threats, and government interests make the job increasingly difficult.
