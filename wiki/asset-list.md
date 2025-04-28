@@ -11,8 +11,7 @@ show_tile: false
 
 | Name of Vehicle | Repair Date |
 | - | - |
-| Armored SUV (Armed) | 2025/04/22 |
-| Armored SUV (Armed) | 2025/04/22 |
+| Armored SUV (Armed) | 2025/05/05 |
 
 ## Cars
 
