@@ -95,3 +95,49 @@ BSG's Bailiff squad carried out a high-risk extraction of contractors from the G
 Immediately after, Bailiff was retasked with investigating a rumored drug lab deep within the southern jungles of Santa Arcadia. Intelligence indicated the site could be a critical point in Los Zetas' regional narcotics pipeline. Upon insertion, the team scouted and confirmed cartel activity before launching an assault. Bailiff successfully located and destroyed two cartel arms caches and what appeared to be an active drug production facility. During the operation, a Russian BTR armored vehicle was encountered and neutralized, suggesting growing cartel access to heavy weaponry.
 
 Throughout the mission, Bailiff faced multiple engagements with cartel technicals and dispersed fireteams. Despite persistent resistance, the squad completed all objectives and executed a successful extraction via a hasty landing zone at Bala Airstrip.
+
+### 6. Operation Lovetap
+
+#### Brief
+
+Following the successful capture of El Carpintero, intelligence from a trusted third party indicates a noticeable shift in Los Zetas' operations. With their coercive grip weakened, the cartel is scaling back large-scale coca cultivation and pivoting towards low-profile, mobile production methods. Los Zetas is now relying on micro refinement labs—small, portable setups easily relocated in vans across rural areas of southeastern Santa Arcadia. Once processed, cartel-operated cargo drones are deployed to quickly move cocaine bricks to hidden stash houses, minimizing exposure.
+
+Operation Lovetap is a direct action mission aimed at disrupting this new strategy before it can stabilize. Bailiff squad is tasked with securing this region through aggressive strikes, targeting known and suspected cartel positions, destroying mobile labs, intercepting drone shipments, and denying assets critical to Los Zetas' operations.
+
+RLOG has expressed satisfaction with the recent decline in cartel visibility but wants to ensure this momentum continues. This is an opportunity to tighten the noose—keep the pressure high and force Los Zetas further into survival mode.
+
+#### Outcome
+
+Operation Lovetap achieved decisive results in the southeastern region of Santa Arcadia. Bailiff squad conducted aggressive direct action against Los Zetas’ shifting operations, successfully locating and destroying a fully operational mobile coca refinement lab before it could be relocated.
+
+During the sweep, the squad engaged and neutralized two cartel-operated BTRs, further crippling Los Zetas’ growing reliance on heavy armored assets. Additionally, a narc sub—used for covert maritime transport of cocaine—was discovered hidden along a remote shoreline and was destroyed before it could be deployed.
+
+The operation delivered a significant blow to the cartel’s new micro-production strategy and reinforced BSG’s dominance in the region. With critical assets denied and cartel forces degraded, RLOG has expressed strong approval of BSG’s continued pressure on Los Zetas.
+
+Santa Arcadia remains volatile, but for now, the cartel is reeling.
+
+### 7. Operation Jitter
+
+#### Brief
+
+With El Carpintero’s trial underway in George Town, tensions are at breaking point. Los Zetas are desperate to destabilize the city, disrupt proceedings, and strike fear into anyone aligned against them. RLOG’s corporate offices have become a symbol of that alliance—and a prime target.
+
+BSG has been contracted to secure RLOG assets and personnel during this critical period. Bailiff squad will be deployed across multiple roles, including site security, rapid response, and overwatch. A sniper team will be positioned on a nearby high-rise to provide long-range support and threat interdiction.
+
+Complicating matters, an RLOG executive has insisted on remaining in George Town to oversee operations in person. Initial plans to escort him from a secure location back to the RLOG office will be compromised when his transport is destroyed in a targeted attack. Bailiff will be forced to adapt—extracting the executive under fire and holding position within the RLOG office as the city descends into chaos.
+
+Expect cartel hit squads, rogue police elements, and possible vehicle-borne IEDs. What begins as a defensive posture will escalate into a fight for survival until reinforcements arrive or the situation burns out.
+
+#### Outcome
+
+Landlord squad established a defensive perimeter around the RLOG office in George Town, securing key intersections and forming a triangle of control points. A sniper team deployed to the office rooftop provided overwatch with a .50 caliber platform, effectively neutralizing incoming threats before they could reach the main squad’s positions.
+
+The situation escalated rapidly when the executive transport SUV was destroyed by a suspected IED en route to the office. With the extraction compromised, Hedgefund made the call to convert the mission into a static defense, prioritizing the protection of the RLOG executive as cartel and police forces clashed across the city. Tensions peaked when a police helicopter was shot down by a cartel-fired IGLA shoulder-launched missile, signaling the deployment of heavy weapons within the urban battlespace.
+
+Throughout the engagement, Landlord held firm against waves of cartel assaults, including RPG teams and technicals. The sniper team’s overwatch proved critical in thinning enemy numbers and disabling advancing vehicles.
+
+A key moment came when cartel figurehead "El Zorro" was spotted livestreaming himself gunning down police officers from a BTR. Landlord swiftly engaged and eliminated the target, delivering a decisive blow to cartel morale.
+
+Once hostilities subsided and cartel forces withdrew, the RLOG executive was safely escorted to Santa Arcadia International Airport without further incident.
+
+Operation Jitter was a success, showcasing BSG’s ability to adapt under pressure and dominate in urban defense against a heavily armed opponent.
