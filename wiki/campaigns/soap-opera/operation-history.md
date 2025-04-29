@@ -141,3 +141,21 @@ A key moment came when cartel figurehead "El Zorro" was spotted livestreaming hi
 Once hostilities subsided and cartel forces withdrew, the RLOG executive was safely escorted to Santa Arcadia International Airport without further incident.
 
 Operation Jitter was a success, showcasing BSG’s ability to adapt under pressure and dominate in urban defense against a heavily armed opponent.
+
+### 8. Operation Sundown
+
+#### Brief
+
+The final days of BSG’s current contract with RLOG are drawing to a close. With most objectives met and cartel activity significantly reduced, BSG personnel are off duty, gathered for a beachside sendoff hosted by RLOG. The atmosphere is relaxed—drinks, jetskis, and the quiet hum of demobilization. Sidearms are carried, but morale is high.
+
+But peace doesn’t last in Santa Arcadia.
+
+#### Outcome
+
+The post-campaign beach gathering was violently interrupted when a cartel hit squad launched a surprise attack against off-duty BSG contractors. Armed only with sidearms at the outset, BSG personnel quickly rallied, repelling the initial assault and seizing cartel AR platforms from downed enemies. Using RHIBs stationed on the beach, Bailiff squad successfully exfiltrated to a nearby Santa Arcadian Navy warship.
+
+Upon regrouping and rearming aboard the vessel, Bailiff was briefed on an emerging crisis: El Carpintero, who had been broken out of custody during the chaos of Operation Jitter, was orchestrating a hostage situation at the Santa Arcadia Sugar Factory. A high-value RLOG executive had been captured and was being held under direct threat.
+
+Bailiff squad was redeployed immediately. After fighting through remaining cartel resistance at the industrial site, they breached the main warehouse at the sugar factory in an attempt to rescue the hostage. Tragically, the RLOG VIP had been strapped into a bomb vest, and despite Bailiff’s rapid action, the device was detonated during the rescue attempt, resulting in the VIP’s death.
+
+During the engagement, Stop-Loss, the supporting helicopter element, sustained a critical engine hit and crash-landed nearby. Bailiff squad diverted mid-mission, locating and extracting the downed pilot under hostile conditions. After securing the crash site and neutralizing pursuing cartel forces, Bailiff squad returned to Santa Arcadia International Airport for immediate exfiltration out of country.
