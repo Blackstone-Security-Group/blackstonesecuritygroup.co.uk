@@ -93,11 +93,18 @@ Santa Arcadia maintains a professional military force focused on national defens
 
 ### Callsigns
 
+#### Command & Control
+
 - Hedgefund (Command)
-- Stop-loss (Helicopter transport)
+- Escrow (Helicopter Transport Assets)
+- Index (ISR Assets)
+- Bullrun (Offensive Rotary Assets)
+
+#### Ground Force
+
 - Bailiff (Ground Team Offensive Posture)
 - Landlord (Ground Team Defensive Posture)
-- Tenant (Ground Team Support Posture)
+- Broker (Ground Team Support Posture)
 
 ### BSG’s Mission Objectives
 
@@ -108,14 +115,5 @@ BSG has been hired to protect RLOG, not police the country. However, the blurry 
 - **Support Government Forces Discreetly** – While officially neutral, BSG teams may have to covertly assist law enforcement to ensure stability.
 - **Cooperate with U.S. Intelligence Agencies** – The CIA and DEA use BSG’s presence as cover for counter-cartel operations, complicating BSG’s neutrality.
 - **Avoid Political Fallout** – If RLOG is seen as too close to the government or foreign interests, it could lead to nationalist backlash or political sabotage.
-
-## The Ticking Time Bomb – What Comes Next?
-
-Santa Arcadia is at a boiling point, and BSG’s presence might be the tipping factor:
-
-- Will Los Zetas escalate attacks against RLOG & BSG?
-- Can the government stabilize before foreign powers intervene?
-- How far will U.S. intelligence go to counter cartel influence?
-- Can BSG remain neutral, or will it be forced to take a side?
 
 tags: #cartel #loszetas #redshiftlogistics #ecuador #spanish #warondrugs #smuggling #narcosubs
