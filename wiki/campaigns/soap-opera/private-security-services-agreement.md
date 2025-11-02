@@ -67,8 +67,8 @@ BSG contractors shall adhere to the following **Rules of Engagement (ROE)** whil
 By signing below, both parties acknowledge their understanding and acceptance of the terms outlined in this Agreement.  
 
 **For Blackstone Security Group (BSG):**  
-Crispin St John
-Global Managing Director
+Crispin St John  
+Global Managing Director  
 2nd April 2025
 
 **For Redshift Logistics (RLOG):**  
