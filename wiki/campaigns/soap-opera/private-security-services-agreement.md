@@ -68,7 +68,7 @@ By signing below, both parties acknowledge their understanding and acceptance of
 
 **For Blackstone Security Group (BSG):**  
 Crispin St John
-Chief Executive Officer
+Global Managing Director
 2nd April 2025
 
 **For Redshift Logistics (RLOG):**  
