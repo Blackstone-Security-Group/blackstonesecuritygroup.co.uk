@@ -96,7 +96,8 @@ Santa Arcadia maintains a professional military force focused on national defens
 #### Command & Control
 
 - Hedgefund (Command)
-- Escrow (Helicopter Transport Assets)
+- Escrow (Transport Helicopter Assets)
+- Audit (RLOG VIP Transport)
 - Index (ISR Assets)
 - Bullrun (Offensive Rotary Assets)
 
