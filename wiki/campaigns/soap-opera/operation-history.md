@@ -159,3 +159,21 @@ Upon regrouping and rearming aboard the vessel, Bailiff was briefed on an emergi
 Bailiff squad was redeployed immediately. After fighting through remaining cartel resistance at the industrial site, they breached the main warehouse at the sugar factory in an attempt to rescue the hostage. Tragically, the RLOG VIP had been strapped into a bomb vest, and despite Bailiff’s rapid action, the device was detonated during the rescue attempt, resulting in the VIP’s death and one BSG contractor.
 
 During the engagement, Stop-Loss, the supporting helicopter element, sustained a critical engine hit and crash-landed nearby. Bailiff squad diverted mid-mission, locating and extracting the downed pilot under hostile conditions. After securing the crash site and neutralizing pursuing cartel forces, Bailiff squad returned to Santa Arcadia International Airport for immediate exfiltration out of country.
+
+## Season 2
+
+### 1. Operation Redwake
+
+#### Brief
+
+Sweep Blue Pearl Industrial Port—investigate suspicious after-hours movement and unmanifested cargo; support local authorities in clearing La Rochelle of a heavy cartel presence and locate the shipment they believe is being held there (one hostage has already been taken); optionally, if time and assets permit, clear or mark the reported landmines near Lakatoro; finally, pick up the Redshift Logistics executive Victor Salazar at Santa Arcadia International Airport and escort him to secure staging.
+
+#### Outcome
+
+Bailiff squad successfully secured Blue Pearl Industrial Port, clearing the area after reports of suspicious late-night activity and unmanifested cargo. The team then redeployed to La Rochelle, where they engaged in multiple firefights alongside local police to eliminate entrenched cartel forces. During the sweep, Bailiff discovered and secured a weapons cache on the northern edge of town, turning it over to the SAPD cordon. One cartel cargo drone was observed launching from the site and managed to escape before it could be intercepted.
+
+Following the engagement, Bailiff conducted a sweep of the Lakatoro minefield, locating and safely disarming a single tripwire land mine. With the area stabilized, the squad re-armed and mobilized a convoy to Santa Arcadia International Airport to retrieve RLOG executive Victor Salazar. En route, Hedgefund received word that Mr. Salazar had, in true RLOG fashion, ditched his transport and taken an Uber to a nightclub in George Town’s DMZ.
+
+Bailiff located the inebriated executive, secured him without further incident, and escorted him back to BSG headquarters at Blue Pearl Industrial Port, where he was placed in a holding cell “for his own safety”—and to sleep it off.
+
+Operation Redwake concluded successfully, though Hedgefund has since added a new clause to all RLOG escort contracts: “VIPs are not to self-deploy via civilian rideshare services.”
