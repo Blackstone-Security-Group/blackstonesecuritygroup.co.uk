@@ -177,3 +177,25 @@ Following the engagement, Bailiff conducted a sweep of the Lakatoro minefield, l
 Bailiff located the inebriated executive, secured him without further incident, and escorted him back to BSG headquarters at Blue Pearl Industrial Port, where he was placed in a holding cell “for his own safety”—and to sleep it off.
 
 Operation Redwake concluded successfully, though Hedgefund has since added a new clause to all RLOG escort contracts: “VIPs are not to self-deploy via civilian rideshare services.”
+
+### 2. Operation Deadeye
+
+#### Brief
+
+After the chaos in La Rochelle, law enforcement has passed intel suggesting a senior cartel enforcer has taken shelter in a fortified property in the town of Nicolet. Surveillance indicates light movement around the compound, consistent with a night shift skeleton crew—but the presence of hard targets is likely.
+
+Tonight, you’ll be conducting a covert night raid on the property. Capture is preferred—the police Meatwagon is standing by to process and detain any individuals pulled from the site. Expect close-quarters combat.
+
+This isn’t just a cleanup job. This is a probe. We’re testing their reaction time, communications, and fallback procedures.
+
+After the raid, regroup at BSG HQ for rapid analysis of captured intel and follow-on assignments.
+
+#### Outcome
+
+Bailiff conducted a successful night raid on the cartel safehouse in Nicolet, securing the compound after close-quarters fighting and recovering a cartel-issued phone along with a weapons cache hidden within the property. As cartel reinforcements attempted to retake the site, Bailiff held their ground until local police units arrived to secure the crime scene and begin processing detainees.
+
+Following the raid, Bailiff remained on-call to support unfolding police operations. The squad was dispatched to investigate a suspected cartel stockpile near the George Town DMZ, where they uncovered and seized an uparmoured technical fitted with a BMP turret, turning it over to SAPD.
+
+Later that day, Bailiff responded to a violent cartel-police engagement in Tanouka, where fighting escalated after cartel forces deployed a mortar team and a helicopter gunship. Bailiff stabilized the situation, evacuated civilians, and held the line until Santa Arcadian military forces arrived to establish a full cordon.
+
+Operation Deadeye concluded with multiple cartel assets neutralized, critical intel secured, and BSG reaffirming its role as the island’s decisive rapid-response element.
