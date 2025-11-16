@@ -199,3 +199,19 @@ Following the raid, Bailiff remained on-call to support unfolding police operati
 Later that day, Bailiff responded to a violent cartel-police engagement in Tanouka, where fighting escalated after cartel forces deployed a mortar team and a helicopter gunship. Bailiff stabilized the situation, evacuated civilians, and held the line until Santa Arcadian military forces arrived to establish a full cordon.
 
 Operation Deadeye concluded with multiple cartel assets neutralized, critical intel secured, and BSG reaffirming its role as the island’s decisive rapid-response element.
+
+### 3. Operation Long Lens
+
+#### Brief
+
+We’ve received a customer tip that a representative from Zhenhua Capital may be meeting with Los Zetas, and we need photographic proof—this is strictly an intelligence-gathering mission. The representative’s accommodation is already marked on the map. However, a more urgent situation has developed: SAPD has engaged cartel shooters on the northern edge of Georgetown, outside the DMZ, after Los Zetas sent a hit squad to eliminate a key witness in an upcoming investigation. Due to this escalation, launchers and special equipment are now authorised everywhere outside the DMZ, but must remain stowed while inside it—ROE in the DMZ remains unchanged: only fire if fired upon. Bailiff is to move into George Town, secure a perimeter around the RLOG offices, and stand by to support if authorities request escalation. Audit will provide transport to Santa Arcadia International Airport to improve response time. Index now has night-time tasking authority for fixed-wing UAV surveillance. Hedgefund retains overall command; Bailiff leads ground operations with Broker acting as JTAC.
+
+#### Outcome
+
+During daylight hours, Bailiff responded to SAPD’s call for assistance in northern George Town, helping suppress a cartel crew engaged in a sustained firefight just outside the DMZ. Shortly afterward, the team was tasked with investigating reports of armoured vehicles operating in Nicolet; two PKM-mounted trucks engaged Bailiff on arrival, and both cartel crews were neutralised. Bailiff then returned to the RLOG offices to await further intelligence on the Zhenhua Capital representative.
+
+As night fell, Bailiff was greenlit to begin the reconnaissance phase. A two-man infiltration element breached the perimeter of Zhenhua Capital’s Georgetown compound, placing covert trackers on executive vehicles. The main squad split into two elements to tail the suspected HVT, setting up surveillance outside his hotel before shadowing him on foot into the slums beyond the DMZ. Bailiff held the perimeter until Hedgefund authorised entry, then cleared a small cartel presence inside the shanty town—discovering a drug lab, which was subsequently turned over to SAPD. The Zhenhua Capital mark slipped away amid the chaos, escaping in an SUV and leaving the district.
+
+Index launched and maintained eyes-on via the vehicle tracker, leading Bailiff to Labota. Thermal scans revealed activity in dense woodland southwest of the settlement. Bailiff moved in, made contact with a cartel patrol, and after a brief firefight raided a hidden cartel drug encampment. Inside, the team discovered drug-processing equipment, cartel drone platforms, notes, and a significant weapons cache. Upon exiting the site with the recovered intel, Escrow was called in to conduct an airstrike on the encampment, finalising the destruction of cartel infrastructure in the area.
+
+Operation Long Lens concluded with multiple cartel assets dismantled, valuable intelligence secured, and clear confirmation that Zhenhua Capital is involved in deeper, covert dealings across Santa Arcadia.
