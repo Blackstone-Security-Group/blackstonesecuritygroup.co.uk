@@ -215,3 +215,17 @@ As night fell, Bailiff was greenlit to begin the reconnaissance phase. A two-man
 Index launched and maintained eyes-on via the vehicle tracker, leading Bailiff to Labota. Thermal scans revealed activity in dense woodland southwest of the settlement. Bailiff moved in, made contact with a cartel patrol, and after a brief firefight raided a hidden cartel drug encampment. Inside, the team discovered drug-processing equipment, cartel drone platforms, notes, and a significant weapons cache. Upon exiting the site with the recovered intel, Escrow was called in to conduct an airstrike on the encampment, finalising the destruction of cartel infrastructure in the area.
 
 Operation Long Lens concluded with multiple cartel assets dismantled, valuable intelligence secured, and clear confirmation that Zhenhua Capital is involved in deeper, covert dealings across Santa Arcadia.
+
+### 4. Operation Raincrow 
+
+#### Brief
+
+Bailiff is on-call to support local police as cartel violence continues to flare across Santa Arcadia. Maintain readiness to respond to SAPD escalation requests anywhere outside the Georgetown DMZ while Hedgefund coordinates a developing intelligence picture. We are awaiting a greenlight for a reconnaissance sweep on a suspected cartel coca farm located in the southern interior—if recon confirms active production or guard presence, Bailiff will immediately transition into a full raid to dismantle the site, secure any intel, and deny the cartel further use of the area. Stay mobile, stay discreet, and be prepared to pivot from police support to jungle offensive at a moment’s notice.
+
+#### Outcome
+
+Operation Raincrow escalated rapidly from routine on-call support to a multi-stage engagement across Santa Arcadia. Bailiff was ambushed immediately after leaving Blue Pearl Industrial Port, forcing the squad to defend and then escort a BPI port van out of the kill zone. A second ambush followed shortly after, resulting in the death of a Blue Pearl staff member caught in the crossfire. En route to Santa Arcadia International Airport, BSG came under sniper fire, but successfully delivered the van to the airport for safekeeping.
+
+Moments later, Bailiff was diverted to a police emergency at the Diesel Power Plant, where cartel forces had seized the facility. BSG established overwatch, scouted enemy positions, and moved in for a close-quarters assault against heavily equipped cartel fighters. During the engagement, cartel operatives detonated several generators, causing significant power loss across the region. A police backup vehicle arriving to assist was destroyed by a remote-controlled car bomb before it reached the cordon.
+
+Following the firefight, Bailiff withdrew to the airport to prepare for the next phase of the operation. The squad then conducted a preliminary reconnaissance sweep of the suspected coca farm location near Baluvu, confirming cartel activity before extracting aboard Audit, the transport helicopter, in preparation for the full raid to come.
