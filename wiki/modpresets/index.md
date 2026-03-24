@@ -13,3 +13,4 @@ Game Masters are free to build on top of the base preset and release additional 
 | Preset | Description |
 | - | - |
 | <a href="gm-base-preset.html" download="gm-base-preset.html">GM Base Preset</a> | The base mod list used by BSG Game Masters/Zeus to build scenarios. Additional mods may be layered on top. |
+| <a href="Buzztr0n_BSG.html" download="Buzztr0n_BSG.html">Buzztr0n BSG Preset</a> | Community preset. |
