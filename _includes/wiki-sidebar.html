@@ -2,8 +2,9 @@
     <h3>Wiki</h3>
 
     {% assign nav_pages = site.pages | where: "wiki-nav", true %}
+    {% assign all_groups = nav_pages | group_by_exp: "p", "p.url | remove_first: '/wiki/' | split: '/' | first" %}
 
-    <!-- Top-level pages: URL splits to exactly 4 segments e.g. /wiki/page/ -->
+    <!-- Top-level pages: URL split size <= 3 e.g. /wiki/page/ -> ["","wiki","page"] -->
     <ul>
         <li>
             <a href="{{ "/wiki/" | absolute_url }}"
@@ -11,56 +12,37 @@
                 Home
             </a>
         </li>
-        {% for p in nav_pages %}
-            {% assign segs = p.url | split: "/" %}
-            {% if segs.size == 4 %}
-        <li>
-            <a href="{{ p.url | absolute_url }}"
-               {% if page.url == p.url %}class="active"{% endif %}>
-                {{ p.title }}
-            </a>
-        </li>
+        {% for grp in all_groups %}
+            {% assign gp = grp.items | first %}
+            {% assign gdepth = gp.url | split: "/" | size %}
+            {% if gdepth <= 3 %}
+                {% for p in grp.items %}
+                <li>
+                    <a href="{{ p.url | absolute_url }}"
+                       {% if page.url == p.url %}class="active"{% endif %}>
+                        {{ p.title }}
+                    </a>
+                </li>
+                {% endfor %}
             {% endif %}
         {% endfor %}
     </ul>
 
-    <!-- Folder groups: derived from URL segments -->
-    {% assign folder_groups = nav_pages | group_by_exp: "p", "p.url | split: '/' | slice: 2, 1 | first" %}
-    {% for fg in folder_groups %}
-        {% assign fp = fg.items | first %}
-        {% assign fp_segs = fp.url | split: "/" %}
-        {% if fp_segs.size >= 5 %}
-            {% assign folder_label = fg.name | replace: "-", " " | capitalize %}
+    <!-- Folder groups: first item has URL depth >= 4 -->
+    {% for grp in all_groups %}
+        {% assign gp = grp.items | first %}
+        {% assign gdepth = gp.url | split: "/" | size %}
+        {% if gdepth >= 4 %}
+            {% assign folder_label = grp.name | replace: "-", " " | capitalize %}
             <p class="wiki-nav-group">{{ folder_label }}</p>
 
-            <!-- Check if any page in this group is depth >= 6 (has sub-folder) -->
-            {% assign has_subfolder = false %}
-            {% for p in fg.items %}
-                {% assign ps = p.url | split: "/" %}
-                {% if ps.size >= 6 %}
-                    {% assign has_subfolder = true %}
+            {% assign sub_groups = grp.items | group_by_exp: "p", "p.url | remove_first: '/wiki/' | split: '/' | slice: 1 | first" %}
+            {% for sg in sub_groups %}
+                {% if sg.name and sg.name != "" %}
+                    <p class="wiki-nav-sub">{{ sg.name | replace: "-", " " | capitalize }}</p>
                 {% endif %}
-            {% endfor %}
-
-            {% if has_subfolder %}
-                {% assign sub_groups = fg.items | group_by_exp: "p", "p.url | split: '/' | slice: 3, 1 | first" %}
-                {% for sg in sub_groups %}
-                    {% assign sub_label = sg.name | replace: "-", " " | capitalize %}
-                    <p class="wiki-nav-sub">{{ sub_label }}</p>
-                    <ul>
-                        {% for p in sg.items %}
-                        <li>
-                            <a href="{{ p.url | absolute_url }}"
-                               {% if page.url == p.url %}class="active"{% endif %}>
-                                {{ p.title }}
-                            </a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                {% endfor %}
-            {% else %}
                 <ul>
-                    {% for p in fg.items %}
+                    {% for p in sg.items %}
                     <li>
                         <a href="{{ p.url | absolute_url }}"
                            {% if page.url == p.url %}class="active"{% endif %}>
@@ -69,7 +51,7 @@
                     </li>
                     {% endfor %}
                 </ul>
-            {% endif %}
+            {% endfor %}
         {% endif %}
     {% endfor %}
 </nav>
