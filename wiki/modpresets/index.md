@@ -4,6 +4,7 @@ title: Mod Presets
 description: ARMA 3 mod preset files for BSG operations
 show_tile: false
 wiki-tile: true
+wiki-nav: true
 ---
 
 Download a preset and import it via the ARMA 3 Launcher: **Mods → Preset → Import**.

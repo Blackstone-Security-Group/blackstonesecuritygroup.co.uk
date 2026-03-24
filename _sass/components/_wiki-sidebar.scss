@@ -1,0 +1,114 @@
+/* Wiki */
+
+#wiki-wrapper {
+	display: flex;
+	align-items: flex-start;
+	gap: 3em;
+	margin: 0 auto;
+	max-width: _size(inner);
+	padding: 4em 0;
+	width: calc(100% - 6em);
+
+	@include breakpoint(small) {
+		padding: 3em 0;
+		width: calc(100% - 3em);
+	}
+}
+
+#wiki-sidebar {
+	flex: 0 0 200px;
+	position: sticky;
+	top: 2em;
+
+	h3 {
+		border-bottom: solid 1px _palette(border);
+		color: _palette(highlight);
+		font-size: 0.8em;
+		letter-spacing: _font(letter-spacing-alt);
+		margin-bottom: 1em;
+		padding-bottom: 0.75em;
+		text-transform: uppercase;
+	}
+
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+
+		li a {
+			border-bottom: none;
+			color: rgba(255,255,255,0.5);
+			display: block;
+			font-size: 0.85em;
+			padding: 0.4em 0;
+
+			&:hover { color: _palette(highlight) !important; }
+			&.active { color: _palette(fg) !important; font-weight: _font(weight-bold); }
+		}
+	}
+
+	@include breakpoint(medium) { display: none; }
+}
+
+#wiki-content {
+	flex: 1;
+	min-width: 0;
+}
+
+.wiki-nav-group {
+	border-top: solid 1px _palette(border);
+	color: _palette(highlight);
+	font-size: 0.8em;
+	letter-spacing: _font(letter-spacing-alt);
+	margin: 1.5em 0 0.5em;
+	padding-top: 1em;
+	text-transform: uppercase;
+}
+
+.wiki-nav-sub {
+	color: rgba(255,255,255,0.3);
+	font-size: 0.75em;
+	letter-spacing: _font(letter-spacing-alt);
+	margin: 0.75em 0 0.25em;
+	padding-left: 0.5em;
+	text-transform: uppercase;
+}
+
+.wiki-nav-sub + ul li a {
+	padding-left: 0.75em;
+}
+
+.wiki-grid {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 1.5em;
+	margin-top: 2em;
+
+	@include breakpoint(small) {
+		grid-template-columns: 1fr;
+	}
+}
+
+.wiki-grid-item {
+	background: _palette(border-bg);
+	border: solid 1px _palette(border);
+	border-radius: _size(border-radius);
+	padding: 1.5em;
+
+	h3 {
+		margin-bottom: 0.5em;
+
+		a {
+			border-bottom: none;
+			color: _palette(fg-bold);
+
+			&:hover { color: _palette(highlight) !important; }
+		}
+	}
+
+	p {
+		color: rgba(255,255,255,0.5);
+		font-size: 0.9em;
+		margin: 0;
+	}
+}

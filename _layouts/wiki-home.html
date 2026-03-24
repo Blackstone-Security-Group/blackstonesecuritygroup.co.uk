@@ -12,40 +12,27 @@
 
     {% include wiki-header.html %}
 
-    <!-- Banner -->
-    <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-                <h1>BSG Wiki</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">Internal Reference Documents</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Browse</a></li>
-                </ul>
+    <div id="main" class="alt">
+        <section id="one">
+            <div id="wiki-wrapper">
+                {% include wiki-sidebar.html %}
+                <div id="wiki-content">
+                    <header class="major">
+                        <h1>BSG Wiki</h1>
+                    </header>
+                    <p>Internal reference documents for Blackstone Security Group operations.</p>
+                    <div class="wiki-grid">
+                        {% assign wiki_tiles = site.pages | where: "wiki-tile", true %}
+                        {% for tile in wiki_tiles %}
+                        <div class="wiki-grid-item">
+                            <h3><a href="{{ tile.url | relative_url }}">{{ tile.title }}</a></h3>
+                            <p>{{ tile.description }}</p>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
             </div>
-        </div>
-    </section>
-
-    <!-- Main -->
-    <div id="main">
-
-        <!-- Tiles -->
-        <section id="one" class="tiles">
-            {% assign wiki_tiles = site.pages | where: "wiki-tile", true %}
-            {% for tile in wiki_tiles %}
-            <article>
-                <span class="image">
-                    <img src="{{ tile.image }}" alt="" />
-                </span>
-                <header class="major">
-                    <h3><a href="{{ tile.url | relative_url }}" class="link">{{ tile.title }}</a></h3>
-                    <p>{{ tile.description }}</p>
-                </header>
-            </article>
-            {% endfor %}
         </section>
-
     </div>
 
     {% include footer.html %}

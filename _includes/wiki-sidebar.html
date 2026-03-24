@@ -1,0 +1,75 @@
+<nav id="wiki-sidebar">
+    <h3>Wiki</h3>
+
+    {% assign nav_pages = site.pages | where: "wiki-nav", true %}
+
+    <!-- Top-level pages: URL splits to exactly 4 segments e.g. /wiki/page/ -->
+    <ul>
+        <li>
+            <a href="{{ "/wiki/" | absolute_url }}"
+               {% if page.url == "/wiki/" %}class="active"{% endif %}>
+                Home
+            </a>
+        </li>
+        {% for p in nav_pages %}
+            {% assign segs = p.url | split: "/" %}
+            {% if segs.size == 4 %}
+        <li>
+            <a href="{{ p.url | absolute_url }}"
+               {% if page.url == p.url %}class="active"{% endif %}>
+                {{ p.title }}
+            </a>
+        </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+
+    <!-- Folder groups: derived from URL segments -->
+    {% assign folder_groups = nav_pages | group_by_exp: "p", "p.url | split: '/' | slice: 2, 1 | first" %}
+    {% for fg in folder_groups %}
+        {% assign fp = fg.items | first %}
+        {% assign fp_segs = fp.url | split: "/" %}
+        {% if fp_segs.size >= 5 %}
+            {% assign folder_label = fg.name | replace: "-", " " | capitalize %}
+            <p class="wiki-nav-group">{{ folder_label }}</p>
+
+            <!-- Check if any page in this group is depth >= 6 (has sub-folder) -->
+            {% assign has_subfolder = false %}
+            {% for p in fg.items %}
+                {% assign ps = p.url | split: "/" %}
+                {% if ps.size >= 6 %}
+                    {% assign has_subfolder = true %}
+                {% endif %}
+            {% endfor %}
+
+            {% if has_subfolder %}
+                {% assign sub_groups = fg.items | group_by_exp: "p", "p.url | split: '/' | slice: 3, 1 | first" %}
+                {% for sg in sub_groups %}
+                    {% assign sub_label = sg.name | replace: "-", " " | capitalize %}
+                    <p class="wiki-nav-sub">{{ sub_label }}</p>
+                    <ul>
+                        {% for p in sg.items %}
+                        <li>
+                            <a href="{{ p.url | absolute_url }}"
+                               {% if page.url == p.url %}class="active"{% endif %}>
+                                {{ p.title }}
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                {% endfor %}
+            {% else %}
+                <ul>
+                    {% for p in fg.items %}
+                    <li>
+                        <a href="{{ p.url | absolute_url }}"
+                           {% if page.url == p.url %}class="active"{% endif %}>
+                            {{ p.title }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</nav>
