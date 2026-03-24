@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: wiki-page
 title: Private Security Services Agreement
-description: null
+description: BSG-RLOG contract documentation
 image: null
 author: null
 show_tile: false
---- 
+wiki-nav: true
+---
 
 This **Private Security Services Agreement** (the “Agreement”) is entered into as of **2025-04-04**, by and between:  
 

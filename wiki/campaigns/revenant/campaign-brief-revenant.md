@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Operation Iron Eclipse
-description: null
+layout: wiki-page
+title: Campaign Revenant
+description: Operation Iron Eclipse — counter-arms trafficking in the DRC
 image: null
 author: null
 show_tile: false
+wiki-nav: true
+wiki-tile: true
 ---
 
 # BLACKSTONE SECURITY GROUP - OPERATIONAL CAMPAIGN BRIEF – Revenant

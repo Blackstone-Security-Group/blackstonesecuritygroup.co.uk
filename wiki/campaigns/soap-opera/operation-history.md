@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: wiki-page
 title: Operation History
-description: null
+description: Soap Opera mission log
 image: null
 author: null
 show_tile: false
+wiki-nav: true
 ---
 
 ## Season 1

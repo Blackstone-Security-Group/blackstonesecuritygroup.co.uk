@@ -1,10 +1,12 @@
 ---
-layout: page
-title: BSG Command Net Frequency Allocation Process
-description: null
+layout: wiki-page
+title: Command Net Frequency Allocation
+description: Procedure for establishing and protecting the Command Net LR radio frequency
 image: null
 author: null
 show_tile: false
+wiki-nav: true
+wiki-tile: true
 ---
 
 This document formalizes the approved procedure for establishing, protecting, and utilizing the Command Net long-range (LR) radio frequency during BSG operations.

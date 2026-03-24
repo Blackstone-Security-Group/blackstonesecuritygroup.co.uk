@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: wiki-page
 title: Campaign Soap Opera
-description: null
+description: BSG operations in the Republic of Santa Arcadia
 image: null
 author: null
 show_tile: false
+wiki-nav: true
+wiki-tile: true
 ---
 
 # The Republic of Santa Arcadia

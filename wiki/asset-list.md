@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: wiki-page
 title: Asset List
-description: null
+description: BSG vehicle and equipment inventory
 image: null
 author: null
 show_tile: false
+wiki-nav: true
+wiki-tile: true
 ---
 
 # Vehicles in repair/re-aquisition
