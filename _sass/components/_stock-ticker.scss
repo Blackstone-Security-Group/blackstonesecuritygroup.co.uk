@@ -1,0 +1,45 @@
+/* BSG Market Data Section */
+
+.bsg-market-section {
+	.bsg-exchange-label {
+		font-size: 0.5em;
+		letter-spacing: _font(letter-spacing-alt);
+		color: _palette(highlight);
+		background: rgba(190, 176, 135, 0.1);
+		border: 1px solid rgba(190, 176, 135, 0.3);
+		padding: 0.2em 0.5em;
+		margin-left: 0.5em;
+		vertical-align: middle;
+	}
+
+	.bsg-chart-container {
+		margin: 2em 0 1em;
+		border: 1px solid _palette(border);
+		min-height: 350px;
+		position: relative;
+	}
+
+	.bsg-name-overlay {
+		position: absolute;
+		top: 8px;
+		left: 0;
+		width: 55%;
+		height: 44px;
+		background-color: #000000;
+		z-index: 10;
+		font-family: _font(family);
+		font-size: 0.75em;
+		font-weight: _font(weight);
+		color: _palette(fg);
+		line-height: 44px;
+		padding-left: 12px;
+		pointer-events: none;
+	}
+
+	.bsg-market-disclaimer {
+		font-size: 0.65em;
+		color: _palette(fg-light);
+		letter-spacing: _font(letter-spacing);
+		margin-top: 0.5em;
+	}
+}
