@@ -40,6 +40,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - CLAUDE.md
 
 sass:
   style: compressed
