@@ -14,4 +14,4 @@ Game Masters are free to build on top of the base preset and release additional 
 | Preset | Description |
 | - | - |
 | <a href="gm-base-preset.html" download="gm-base-preset.html">GM Base Preset</a> | The base mod list used by BSG Game Masters/Zeus to build scenarios. Additional mods may be layered on top. |
-| <a href="Buzztr0n_BSG_20260326.html" download="Buzztr0n_BSG_20260326.html">Buzztr0n BSG Preset 20260326</a> | Community preset. |
+| <a href="Krastov_Oblast_20260401.html" download="Krastov_Oblast_20260401.html">Krastov Oblast Preset 20260401</a> | Community preset. |
